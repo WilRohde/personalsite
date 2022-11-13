@@ -1,0 +1,31 @@
+.cvul {
+    list-style-type: none;
+    margin-left: 10%;
+}
+.cvul li {
+    display: inline-block;
+    margin: 0px 10px;
+}
+.subul {
+    list-style-type: none;
+    margin-left: 5%;
+}
+.subul li {
+    display: inline-block;
+    margin: 0px 10px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    margin-left: 5%;
+}
+p {
+    margin-left: 5%;
+}
+.itemsul {
+    margin-left: 10%;
+}
+.itemsp {
+    margin-left: 10%;
+}
